@@ -1,0 +1,12 @@
+$msize: 3rem;
+$primary-color: rgb(37, 46, 173);
+
+.App {
+    margin: $msize;
+    font-family: Arial, Helvetica, sans-serif;
+    color: $primary-color;
+  }
+
+  ::placeholder {
+    color: gray;
+  }
